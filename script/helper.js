@@ -2,6 +2,6 @@ function first() {
     return 1;
 }
 
-function first() {
+function second() {
     return 2;
 }
