@@ -1,3 +1,5 @@
 function main() {
-    return true;
+    for (;;) {
+        //do something
+    }
 }
