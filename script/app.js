@@ -1,5 +1,5 @@
 function main() {
     for (;;) {
-        //do something
+        console.log(now());
     }
 }
