@@ -1,3 +1,4 @@
 function correct() {
-    return true;
+    var value = true;
+    return value;
 }
